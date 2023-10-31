@@ -1,0 +1,36 @@
+{
+  "main-banner": [
+    {
+      "id": "1",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    },
+    {
+      "id": "2",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    },
+    {
+      "id": "3",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    }
+  ],
+  "sub-banner": [
+    {
+      "id": "4",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    },
+    {
+      "id": "5",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    },
+    {
+      "id": "6",
+      "action_type": "OPEN_URL",
+      "action_data": "https://fb.com/sitdepk"
+    }
+  ]
+}
