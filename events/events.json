@@ -20,17 +20,23 @@
     {
       "id": "4",
       "action_type": "OPEN_URL",
-      "action_data": "https://fb.com/sitdepk"
+      "action_data": "https://fb.com/sitdepk",
+      "title": "MUA GIÁO TRÌNH AUTH",
+      "subtitle": "Mua giáo trình tại neubook.edu.vn để được giảm giá 20%"
     },
     {
       "id": "5",
       "action_type": "OPEN_URL",
-      "action_data": "https://fb.com/sitdepk"
+      "action_data": "https://fb.com/sitdepk",
+      "title": "MUA GIÁO TRÌNH AUTH",
+      "subtitle": "Mua giáo trình tại neubook.edu.vn để được giảm giá 20%"
     },
     {
       "id": "6",
       "action_type": "OPEN_URL",
-      "action_data": "https://fb.com/sitdepk"
+      "action_data": "https://fb.com/sitdepk",
+      "title": "MUA GIÁO TRÌNH AUTH",
+      "subtitle": "Mua giáo trình tại neubook.edu.vn để được giảm giá 20%"
     }
   ]
 }
