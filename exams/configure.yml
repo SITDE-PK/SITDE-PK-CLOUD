@@ -1,5 +1,9 @@
 name: 'Kỳ thi thử cho K64 - Beyond the Dawn'
 enable: true
+news:
+  title: 'THAM GIA THI THỬ CÙNG SITDE PK'
+  description: 'Các kỳ thi thử sẽ được diễn ra định kỳ theo lịch thi trên trường. Hay follow fanpage fb.com/sitdepk ngay hôm nay để nắm bắt kịp thời những thông tin về các kỳ thi thử.'
+  url: 'https://facebook.com/sitdepk'
 data:
   KHMA1101:
     name: 'Kinh tế vĩ mô'
