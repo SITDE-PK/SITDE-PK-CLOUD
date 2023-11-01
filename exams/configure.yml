@@ -1,5 +1,5 @@
+enable: false
 name: 'Kỳ thi thử cho K64 - Beyond the Dawn'
-enable: true
 data:
   KHMA1101:
     name: 'Kinh tế vĩ mô'
