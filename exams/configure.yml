@@ -1,0 +1,13 @@
+name: 'Kỳ thi thử cho K64 - Beyond the Dawn'
+enable: true
+data:
+  KHMA1101:
+    name: 'Kinh tế vĩ mô'
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: '22779'
+    sessions:
+      '01/10/2023':
+        - '15:00 - 20:00'
+        - '22:00 - 23:30'
