@@ -1,18 +1,108 @@
-enable: false
-name: 'Kỳ thi thử cho K64 - Beyond the Dawn'
+enable: true
+name: "Kỳ thi thử cho K65 - Outstanding"
 news:
-  title: 'THAM GIA THI THỬ CÙNG SITDE PK'
-  description: 'Các kỳ thi thử sẽ được diễn ra định kỳ theo lịch thi trên trường. Hay follow fanpage fb.com/sitdepk ngay hôm nay để nắm bắt kịp thời những thông tin về các kỳ thi thử.'
-  url: 'https://facebook.com/sitdepk'
-  image: 'news.jpeg'
+  title: "BE BRAVE - BE OUTSTANDING"
+  description: "Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hay follow fanpage fb.com/sitdepk ngay hôm nay để nắm bắt kịp thời những thông tin về các kỳ thi thử."
+  url: "https://facebook.com/sitdepk"
+  image: "news.jpeg"
 data:
-  KHMA1101:
-    name: 'Kinh tế vĩ mô'
+  TOCB1107:
+    name: "Toán rời rạc"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '22779'
+    password: "37750"
     sessions:
-      '01/10/2023':
-        - '15:00 - 20:00'
-        - '22:00 - 23:30'
+      "14/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  CNTT1116:
+    name: "Nhập môn Công nghệ thông tin"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "63412"
+    sessions:
+      "14/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  QLKT1101:
+    name: "Quản lý học"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "55983"
+    sessions:
+      "14/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  KHMI1101:
+    name: "Kinh tế vi mô"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "11205"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  KHMA1101:
+    name: "Kinh tế vĩ mô"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "23507"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  LUCS1129:
+    name: "Pháp luật đại cương"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "77231"
+    sessions:
+      "21/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  LLNL1105:
+    name: "Triết học Mác - Lênin"
+    time: 3600
+    noQuestion: 80
+    testing: false
+    password: "64931"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  TOCB1101:
+    name: "Đại số"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "52349"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  TIHT1102:
+    name: "Hệ thống thông tin quản lý"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "78522"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
+  CNTT1191:
+    name: "Vật lý đại cương"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "02851"
+    sessions:
+      "15/01/2024":
+        - "15:00 - 20:00"
+        - "22:00 - 23:30"
