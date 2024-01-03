@@ -2,9 +2,9 @@ enable: true
 name: "Kỳ thi thử cho K65 - Outstanding"
 news:
   title: "BE BRAVE - BE OUTSTANDING"
-  description: "Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hay follow fanpage fb.com/sitdepk ngay hôm nay để nắm bắt kịp thời những thông tin về các kỳ thi thử."
+  description: "Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hãy truy cập fb.com/sitdepk ngay để nắm bắt kịp thời những thông tin về kỳ thi thử này."
   url: "https://facebook.com/sitdepk"
-  image: "news.jpeg"
+  image: "OUTSTANDING.jpg"
 data:
   TOCB1107:
     name: "Toán rời rạc"
