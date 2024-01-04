@@ -30,7 +30,7 @@ data:
         - '10:00 - 11:30'
   QLKT1101:
     name: 'Quản lý học'
-    time: 3600
+    time: 3000
     noQuestion: 40
     testing: false
     password: '55983'
@@ -76,7 +76,7 @@ data:
         - '21:00 - 22:00'
   LUCS1129:
     name: 'Pháp luật đại cương'
-    time: 3600
+    time: 3000
     noQuestion: 40
     testing: false
     password: '77231'
