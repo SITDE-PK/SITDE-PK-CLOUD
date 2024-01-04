@@ -20,7 +20,7 @@ data:
   CNTT1116:
     name: 'Nhập môn Công nghệ thông tin'
     time: 3600
-    noQuestion: 40
+    noQuestion: 50
     testing: false
     password: '63412'
     sessions:
