@@ -19,7 +19,7 @@ data:
         - '13:00 - 14:00'
         - '20:30 - 21:30'
   CNTT1116:
-    hasExplanation: true
+    hasExplanation: false
     name: 'Nhập môn Công nghệ thông tin'
     time: 3600
     noQuestion: 50
