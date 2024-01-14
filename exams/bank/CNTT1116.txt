@@ -485,11 +485,6 @@ Tính toán<br>
 Rẽ nhánh<br>
 d<br>
 
-
-
-
-
-
 Hệ đếm cơ số 10 sử dụng bao nhiêu chữ số<br>
 10 chữ số:0,1,2,3,4,5,6,7,8,9<br>
 10 chữ số:1,2,3,4,5,6,7,8,9,10<br>
@@ -968,34 +963,13 @@ Tập các thanh ghi<br>
 Cả ba í trên<br>
 a<br>
 
-Tăng tốc đọ trao đổi thông tin tron gmays tính là chức năng của khối nào<br>
+Tăng tốc đọ trao đổi thông tin trong máy tính là chức năng của khối nào<br>
 Khối điều khiển<br>
 Khối tính toán số học và logic<br>
 Tập các thanh ghi<br>
 Cả ba í trên<br>
 c<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-﻿Làm cách nào để xem thuộc tính của một thư mục?<br>
+Làm cách nào để xem thuộc tính của một thư mục?<br>
 Click chuột phải vào thư mục và chọn Create Short Cut<br>
 Click chuột phải vào thư mục và chọn Open<br>
 Click chuột phải vào thư mục và chọn Properties.<br>
@@ -1632,8 +1606,7 @@ Microsoft PowerPoint, Microsoft Excel, Microsoft Word<br>
 Microsoft Word, Microsoft PowerPoint, Microsoft Excel<br>
 Microsoft Excel, Microsoft Word, Microsoft PowerPoint<br>
 a<br>
-
-<br>﻿Cho biểu thức A= (-3+4%5/2) Giá trị của biểu thức A là:<br>
+Cho biểu thức A= (-3+4%5/2) Giá trị của biểu thức A là:<br>
 Kết quả khác<br>
 1<br>
 -3<br>
