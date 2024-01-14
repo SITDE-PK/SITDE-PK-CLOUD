@@ -30,6 +30,7 @@ data:
         - '07:00 - 08:00'
         - '08:30 - 09:30'
         - '10:00 - 11:30'
+        - '15:00 - 16:00'
   QLKT1101:
     hasExplanation: false
     name: 'Quản lý học'
