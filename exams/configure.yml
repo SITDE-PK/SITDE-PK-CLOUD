@@ -93,6 +93,7 @@ data:
         - '13:00 - 14:00'
         - '14:30 - 15:30'
         - '20:00 - 21:00'
+        - '22:00 - 23:00'
   LLNL1105:
     hasExplanation: false
     name: 'Triết học Mác - Lênin'
