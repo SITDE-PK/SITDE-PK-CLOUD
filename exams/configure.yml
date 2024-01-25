@@ -1,146 +1,147 @@
 enable: true
-name: 'Kỳ thi thử cho K65 - Outstanding'
+name: "Kỳ thi thử cho K65 - Outstanding"
 news:
-  title: 'BE BRAVE - BE OUTSTANDING'
-  description: 'Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hãy truy cập fb.com/sitdepk ngay để nắm bắt kịp thời những thông tin về kỳ thi thử này.'
-  url: 'https://facebook.com/sitdepk'
-  image: 'OUTSTANDING.jpg'
+  title: "BE BRAVE - BE OUTSTANDING"
+  description: "Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hãy truy cập fb.com/sitdepk ngay để nắm bắt kịp thời những thông tin về kỳ thi thử này."
+  url: "https://facebook.com/sitdepk"
+  image: "OUTSTANDING.jpg"
 data:
   TOCB1107:
     hasExplanation: false
-    name: 'Toán rời rạc'
+    name: "Toán rời rạc"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '37750'
+    password: "37750"
     sessions:
-      '14/01/2024':
-        - '09:00 - 10:00'
-        - '13:00 - 14:00'
-        - '20:30 - 21:30'
+      "14/01/2024":
+        - "09:00 - 10:00"
+        - "13:00 - 14:00"
+        - "20:30 - 21:30"
   CNTT1116:
     hasExplanation: false
-    name: 'Nhập môn Công nghệ thông tin'
+    name: "Nhập môn Công nghệ thông tin"
     time: 3600
     noQuestion: 50
     testing: false
-    password: '63412'
+    password: "63412"
     sessions:
-      '14/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:30'
-        - '15:00 - 16:00'
+      "14/01/2024":
+        - "07:00 - 08:00"
+        - "08:30 - 09:30"
+        - "10:00 - 11:30"
+        - "15:00 - 16:00"
   QLKT1101:
     hasExplanation: false
-    name: 'Quản lý học'
+    name: "Quản lý học"
     time: 3000
     noQuestion: 40
     testing: false
-    password: '55983'
+    password: "55983"
     sessions:
-      '14/01/2024':
-        - '13:00 - 14:00'
-        - '14:30 - 15:30'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
+      "14/01/2024":
+        - "13:00 - 14:00"
+        - "14:30 - 15:30"
+        - "16:00 - 17:00"
+        - "21:00 - 22:00"
   KHMI1101:
     hasExplanation: false
-    name: 'Kinh tế vi mô'
+    name: "Kinh tế vi mô"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '11205'
+    password: "11205"
     sessions:
-      '15/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
-        - '20:00 - 21:00'
-      '16/01/2024':
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
-        - '20:00 - 21:00'
+      "15/01/2024":
+        - "07:00 - 08:00"
+        - "08:30 - 09:30"
+        - "10:00 - 11:00"
+        - "14:30 - 15:30"
+        - "20:00 - 21:00"
+      "16/01/2024":
+        - "08:30 - 09:30"
+        - "10:00 - 11:00"
+        - "14:30 - 15:30"
+        - "20:00 - 21:00"
   KHMA1101:
     hasExplanation: false
-    name: 'Kinh tế vĩ mô'
+    name: "Kinh tế vĩ mô"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '23507'
+    password: "23507"
     sessions:
-      '15/01/2024':
-        - '07:00 - 08:00'
-        - '13:00 - 14:00'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
-      '16/01/2024':
-        - '07:00 - 08:00'
-        - '13:00 - 14:00'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
+      "15/01/2024":
+        - "07:00 - 08:00"
+        - "13:00 - 14:00"
+        - "16:00 - 17:00"
+        - "21:00 - 22:00"
+      "16/01/2024":
+        - "07:00 - 08:00"
+        - "13:00 - 14:00"
+        - "16:00 - 17:00"
+        - "21:00 - 22:00"
   LUCS1129:
     hasExplanation: false
-    name: 'Pháp luật đại cương'
+    name: "Pháp luật đại cương"
     time: 3000
     noQuestion: 40
     testing: false
-    password: '77231'
+    password: "77231"
     sessions:
-      '21/01/2024':
-        - '13:00 - 14:00'
-        - '14:30 - 15:30'
-        - '20:00 - 21:00'
-        - '22:00 - 23:00'
+      "21/01/2024":
+        - "13:00 - 14:00"
+        - "14:30 - 15:30"
+        - "20:00 - 21:00"
+        - "22:00 - 23:00"
   LLNL1105:
     hasExplanation: false
-    name: 'Triết học Mác - Lênin'
+    name: "Triết học Mác - Lênin"
     time: 3600
     noQuestion: 80
     testing: false
-    password: '64931'
+    password: "64931"
     sessions:
-      '21/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
+      "21/01/2024":
+        - "07:00 - 08:00"
+        - "08:30 - 09:30"
+        - "16:00 - 17:00"
+        - "21:00 - 22:00"
   TOCB1101:
-    hasExplanation: true
-    name: 'Đại số'
+    hasExplanation: false
+    name: "Đại số"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '52349'
+    password: "52349"
     sessions:
-      '25/01/2024':
-        - '14:30 - 15:30'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
+      "26/01/2024":
+        - "09:00 - 10:00"
+        - "14:30 - 15:30"
+        - "16:00 - 17:00"
+        - "21:00 - 22:00"
   TIHT1102:
     hasExplanation: false
-    name: 'Hệ thống thông tin quản lý'
+    name: "Hệ thống thông tin quản lý"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '78522'
+    password: "78522"
     sessions:
-      '25/01/2024':
-        - '10:00 - 11:00'
-        - '18:00 - 19:00'
-        - '19:30 - 20:30'
+      "25/01/2024":
+        - "10:00 - 11:00"
+        - "18:00 - 19:00"
+        - "19:30 - 20:30"
   CNTT1191:
     hasExplanation: false
-    name: 'Vật lý đại cương'
+    name: "Vật lý đại cương"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '02851'
+    password: "02851"
     sessions:
-      '25/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
+      "25/01/2024":
+        - "07:00 - 08:00"
+        - "08:30 - 09:30"
+        - "10:00 - 11:00"
+        - "14:30 - 15:30"
