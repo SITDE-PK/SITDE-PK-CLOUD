@@ -128,10 +128,8 @@ data:
     testing: false
     password: "78522"
     sessions:
-      "25/01/2024":
-        - "10:00 - 11:00"
-        - "18:00 - 19:00"
-        - "19:30 - 20:30"
+      "27/01/2024":
+        - "08:00 - 22:00"
   CNTT1191:
     hasExplanation: false
     name: "Vật lý đại cương"
