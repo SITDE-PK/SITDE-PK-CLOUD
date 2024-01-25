@@ -1,0 +1,631 @@
+﻿Chọn từ thích hợp điền vào chỗ trống: Dữ liệu giao dịch phát sinh nội bộ (đơn đặt hàng, hóa đơn xuất/bán, …) là các .... của TPS<br>
+Đầu vào<br>
+Báo cáo<br>
+Đầu ra<br>
+chức năng<br>
+A<br>
+
+Hạn chế của việc mua phần mềm có sẵn so với việc tự phát triển phần mềm là:<br>
+Cần nhiều thời gian hơn cho việc triển khai vì tính phức tạp của phần mềm<br>
+Không có tài liệu kèm theo<br>
+Phần mềm mua sẵn hiếm khi đáp ứng nhu cầu đặc thù của tổ chức<br>
+Đắt hơn<br>
+C<br>
+
+MIS có khả năng trợ giúp trực tiếp các dạng quyết định đặc trưng, các kiểu quyết định, các nhu cầu riêng biệt của mỗi nhà quản lý. Đúng hay sai?<br>
+đúng<br>
+sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Mục tiêu của các HTTT xử lý giao dịch là:<br>
+Xử lý các dữ liệu liên quan đến giao dịch<br>
+Duy trì sự chính xác cao của các dữ liệu được thu thập và xử lý bởi HT<br>
+Cung cấp thông tin cho lãnh đạo các cấp<br>
+Cả a và b<br>
+D<br>
+
+ Lựa chọn nào sau đây là ví dụ về phương tiện lưu trữ có thể ghi và xóa nhiều lần<br>
+CD-RW.<br>
+DVD-R.<br>
+CD-ROM.<br>
+DVD+R.<br>
+D<br>
+
+Những bản nhạc được tải về từ trang web chia sẻ âm nhạc là ví dụ về thành phần nào của một HTTT?<br>
+Phần cứng<br>
+Dữ liệu<br>
+Phần mềm<br>
+Thủ tục<br>
+C<br>
+
+HTTT trợ giúp ra quyết định (DSS) cung cấp thông tin hỗ trợ quá trình ra quyết định<br>
+Ở mức chiến lược và chiến thuật, nhưng chủ yếu là mức chiến lược.<br>
+Ở mức chiến lược và chiến thuật, nhưng chủ yếu là mức chiến thuật.<br>
+Ở mức chiến thuật và tác nghiệp, nhưng chủ yếu là mức tác nghiệp.<br>
+Ở mức chiến thuật và tác nghiệp, nhưng chủ yếu là mức chiến thuật.<br>
+B<br>
+
+ Các hệ thống xử lý đơn đặt hàng hay hệ thống xử lý đặt chỗ trong khách sạn được coi là các HTTTQL. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+Thiết bị chuyển đổi tín hiệu số từ máy tính thành tín hiệu tương tự cho kênh tương tự và ngược lại được gọi là MODEM. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+“Khả năng kiểm soát, cảnh báo lỗi, tránh rủi ro” thuộc về yếu tố đánh giá phần cứng nào sau đây khi mua sắm?<br>
+Năng lực làm việc<br>
+Tính tin cậy<br>
+Chi phí<br>
+Tính tương thích<br>
+B<br>
+
+Chọn phương án đúng điền vào chỗ trống: “……. là hệ thống thông tin dựa trên máy tính trợ giúp việc ra các quyết định phi cấu trúc hoặc bán cấu trúc trong quản lý của một tổ chức bằng các kết hợp dữ liệu với các công cụ, các mô hình phân tích và cung cấp sự trợ giúp qua lại giữa người quản lý và hệ thống trong quá trình ra quyết định”.<br>
+MIS<br>
+DSS<br>
+TPS<br>
+ESS<br>
+B<br>
+
+. Các hệ thống thông tin xử lý đơn đặt hàng hay hệ thống thông tin xử lý đặt chỗ trong khách sạn là các HTTT quản lý. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+Việc tính lương cho công nhân được xếp vào phạm trù ra quyết định<br>
+Không có cấu trúc<br>
+có cấu trúc<br>
+không có tài liệu<br>
+bán cấu trúc<br>
+B<br>
+
+Một ví dụ về ngôn ngữ truy vấn tin dùng để truy vấn thông tin trong một CSDL là:<br>
+SQL.<br>
+PHP<br>
+ASP<br>
+XML<br>
+A<br>
+
+DSS là hệ thống thông tin dựa trên máy tính trợ giúp việc ra các quyết định phi cấu trúc hoặc bán cấu trúc trong quản lý của một tổ chức bằng các kết hợp dữ liệu với các công cụ, các mô hình phân tích. Đúng hay sai?<br>
+Sai<br>
+Đúng<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+Chọn từ thích hợp điền vào chỗ trống: ................được lập theo chu kỳ đều đặn hàng ngày, hàng tuần, hàng tháng, v.v...) là một trong các loại báo cáo đầu ra của HTTT quản lý.<br>
+Báo cáo chỉ số thống kê<br>
+Báo cáo theo yêu cầu<br>
+Báo cáo định kỳ<br>
+Báo cáo ngoại lệ<br>
+C<br>
+
+Mạng hỗn hợp còn được gọi là mạng phân cấp, với thiết bị cao nhất là một máy tính lớn, được kết nối đến các thiết bị ở mức tiếp theo là các bộ kiểm soát. Các thiết bị kiểm soát lại được kết nối với các thiết bị đầu cuối hoặc với các máy vi tính hoặc với máy in. Đúng hay sai?<br>
+Sai<br>
+Đúng<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Dữ liệu được tập hợp lại và xử lý định kỳ được gọi là phương pháp Xử lý theo lô. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ Mạng có cấu hình đơn giản nhất với một đường trục và tất cả các thiết bị mạng chia sẻ đường trục này thuộc loại cấu hình nào?<br>
+Bus Topolpgy<br>
+Star Topology<br>
+Ring Topology<br>
+Mesh Topology<br>
+A<br>
+
+Hệ thống tích hợp các yếu tố con người, các thủ tục, các CSDL và các thiết bị để ghi nhận giao dịch đã hoàn thành được gọi là:<br>
+DSS<br>
+TPS<br>
+ESS<br>
+MIS<br>
+B<br>
+
+Quản lý việc dự trữ và giao/nhận hàng dự trữ cũng như hoạch định và theo dõi năng lực sản xuất là một trong các mục đích của:<br>
+Hệ thống thông tin quản trị nhân lực<br>
+Hệ thống thông tin Marketing<br>
+Hệ thống thông tin sản xuất<br>
+Hệ thống thông tin tài chính<br>
+C<br>
+
+ Một hệ thống quản lý quan hệ khách hàng lý tưởng<br>
+Kiểm soát tất cả cách thức tổ chức doanh nghiệp giao dịch với các khách hàng của mình và tiến hành phân tích các mối giao tiếp này để tối đa hóa giá trị của khách hàng đối với thông tin trong khi đồng thời tối đa hóa sự bằng lòng của khách hàng.<br>
+Cho phép chăm sóc khách hàng một cách có hệ thống từ lúc nhận đơn hàng cho tới lúc cung ứng hàng cho khách.<br>
+Tập trung vào các cách thức để giữ các khách hàng tiềm năng và tối đa hóa doanh thu từ các khách hàng này.<br>
+Cả A, B và C.<br>
+D<br>
+
+ Một mạng xương sống để kết nối các mạng cục bộ của một tổ chức với nhau, kết nối với mạng diện rộng và mạng Internet là một ví dụ về thành phần nào của một HTTT?<br>
+Phần cứng<br>
+Dữ liệu<br>
+Thủ tục<br>
+Phần mềm<br>
+A<br>
+
+Việc phân loại HTTT thành hai nhóm: nhóm các HTTT hỗ trợ hoạt động nội bộ tổ chức và nhóm các HTTT phối hợp hoạt động giữa các tổ chức được dựa theo:<br>
+Các mức quản lý<br>
+Phạm vi hoạt động<br>
+Lĩnh vực hoạt động<br>
+Mục đích và đối tượng phục vụ<br>
+B<br>
+
+Hệ thống thông tin lập kế hoạch hóa nguồn nhân lực thuộc loại hệ thống thông tin quản trị nhân lực cấp<br>
+Chiến thuật<br>
+Tác nghiệp<br>
+Giao dịch<br>
+Chiến lược<br>
+D<br>
+
+Mục tiêu cơ bản của tổ chức phi lợi nhuận là tăng doanh thu, giảm chi phí. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+Hệ thống cung cấp thông tin tài chính cho những người làm công tác quản lý tài chính và giám đốc tài chính trong doanh nghiệp, hỗ trợ quá trình ra quyết định liên quan đến sử dụng tài chính, phân bổ và kiểm soát các nguồn lực tài chính trong doanh nghiệp được gọi là:<br>
+Hệ thống thông tin tài chính<br>
+Hệ thống thông tin Marketing<br>
+Hệ thống thông tin sản xuất<br>
+Hệ thống thông tin quản trị nhân lực<br>
+A<br>
+
+Các hệ thống thông tin xử lý đơn đặt hàng hay hệ thống thông tin xử lý đặt chỗ trong khách sạn là các HTTT quản lý. Đúng hay sai?<br>
+Sai<br>
+Đúng<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Hỗ trợ phân chia nguồn lực và kiểm tra kế hoạch sản xuất là một trong các mục đích của:<br>
+Hệ thống thông tin tài chính<br>
+Hệ thống thông tin sản xuất<br>
+Hệ thống thông tin quản trị nhân lực<br>
+Hệ thống thông tin Marketing<br>
+B<br>
+
+Điểm nào sau đây không phải là đặc tính của thông tin có chất lượng?<br>
+Trao đổi được<br>
+Có liên quan<br>
+Đúng thời điểm<br>
+Chính xác<br>
+A<br>
+
+Một hệ thống kinh doanh giúp tổ chức cung cấp sản phẩm đúng loại, đến đúng nơi vào đúng thời điểm được cần đến với số lượng phù hợp và giá cả chấp nhận được được gọi là gì?<br>
+SCM<br>
+CRM<br>
+TPS<br>
+ERP<br>
+A<br>
+
+HTTT quản trị nguồn nhân lực mức chiến thuật thực hiện<br>
+Lập kế hoạch nhu cầu nguồn nhân lực dài hạn cho tổ chức.<br>
+Kiểm soát việc phân bổ lương, thu nhập nhân viên.<br>
+Theo dõi các hoạt động đào tạo và thẩm định năng lực nhân viên.<br>
+Cả B và C.<br>
+D<br>
+
+Chức năng dự báo tăng trưởng của các sản phẩm và của doanh nghiệp, dự báo nhu cầu dòng tiền, v.v… là của<br>
+Phân hệ dự báo tài chính<br>
+Phân hệ quyết toán thu nhập và chi phí<br>
+Phân hệ kiểm toán<br>
+Phân hệ sử dụng và quản lý quỹ<br>
+A<br>
+
+ Việc thu thập và nhập dữ liệu thô chưa qua xử lý vào hệ thống bằng một trong các cách thủ công, bán thủ công hoặc tự động hóa là chức năng của<br>
+Bộ phận xử lý của hệ thống thông tin<br>
+Đầu ra của hệ thống thông tin<br>
+Bộ phận lưu trữ của hệ thống thông tin<br>
+Đầu vào hệ thống thông tin<br>
+D<br>
+
+Các hệ thống thông tin (HTTT) xử lý đơn đặt hàng hay HTTT xử lý đặt chỗ trong khách sạn là các HTTT Xử lý văn phòng. Đúng hay sai?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+ Về mặt dữ liệu, các HTTT quản lý đều<br>
+Phụ thuộc vào các HTTT xử lý giao dịch.<br>
+Phụ thuộc vào các HTTT trợ giúp lãnh đạo.<br>
+Phụ thuộc vào các HTTT trợ giúp ra quyết định.<br>
+Phụ thuộc vào các HTTT trợ giúp ra quyết định và các HTTT trợ giúp lãnh đạo.<br>
+A<br>
+
+ Chức năng lưu trữ và theo dõi dữ liệu về chi phí và lợi nhuận của tổ chức là của phân hệ nào trong HTTT tài chính<br>
+Phân hệ dự báo tài chính<br>
+Phân hệ sử dụng và quản lý quỹ<br>
+Phân hệ kiểm toán<br>
+Phân hệ quyết toán thu nhập và chi phí<br>
+D<br>
+
+Ở mức chiến thuật, các hệ thống bán hàng và Marketing của tổ chức doanh nghiệp<br>
+Lập dự báo bán hàng dài hạn.<br>
+Giúp doanh nghiệp xác định và liên hệ với các khách hàng tương lai, theo dõi bán hàng, xử lý các đơn hàng và cung cấp dịch vụ hỗ trợ khách hàng.<br>
+Xác định giá cho các sản phẩm và dịch vụ.<br>
+Cả A và C.<br>
+C<br>
+
+Tìm giá trị trung bình của một bộ các giá trị đơn lẻ là một ví dụ về kết xuất _______ từ<br>
+tập con; tập lớn<br>
+thông tin; dữ liệu<br>
+tri thức; thông tin<br>
+dữ liệu; thông tin<br>
+B<br>
+
+Các quyết định phi cấu trúc là bất thường, không theo quy tắc và không có quy trình rõ ràng hoặc thích hợp để thực hiện?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Trong quản lý sản xuất, MRP là viết tắt của:<br>
+Material Request Plan.<br>
+Material Requirement Production.<br>
+Material Requirement Planning<br>
+Material Request Production.<br>
+C<br>
+
+ Hệ thống thông tin hỗ trợ ra quyết định (DSS) sử dụng thông tin nội bộ cũng như thông tin từ các nguồn bên ngoài?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Một giao thức an toàn hệ thống máy tính (computer security protocol) dùng để đăng nhập là một ví dụ về thành phần ________ của HTTT:<br>
+Phần cứng<br>
+Phần mềm<br>
+Dữ liệu<br>
+Thủ tục<br>
+D<br>
+
+ ESS được thiết kế để phân tích dữ liệu thu thập từ các nguồn bên ngoài, nhưng cũng cần các thông tin được tổng hợp từ các hệ thống khác như TPS, MIS và DSS?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ Hệ hỗ trợ ra quyết định sử dụng thông tin nội bộ cũng như thông tin từ các nguồn bên ngoài?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ Để ra quyết định tốt, nhà quản lý nên:<br>
+Sử dụng mô hình “ra quyết định tập thể” vì đây là mô hình tốt nhất<br>
+Chọn mô hình ra quyết định đã thành công truớc đó<br>
+Sử dụng mô hình tham vấn để ra quyết định<br>
+Xem xét nhiều yếu tố để lựa chọn mô hình ra quyết định phù hợp<br>
+D<br>
+
+Chức năng dự báo nhu cầu dòng tiền là của:<br>
+Phân hệ dự báo tài chính<br>
+Phân hệ quyết toán thu nhập và chi phí<br>
+Phân hệ kiểm toán<br>
+Phân hệ sử dụng và quản lý quỹ<br>
+A<br>
+
+Hệ thống thông tin hỗ trợ ra quyết định sử dụng thông tin nội bộ cũng như thông tin từ các nguồn bên ngoài?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Bước khó khăn nhất của một quá trình ra quyết định là:<br>
+Tìm kiếm thông tin<br>
+Tiềm hiểu các mô hình hỗ trợ ra quyết định<br>
+Xây dựng các tiêu chuẩn đánh giá<br>
+Tìm hiểu vấn đề cần giải quyết<br>
+D<br>
+
+Bạn sẽ sử dụng hệ thống thông tin nào để dự báo xu hướng kinh tế có thể ảnh hưởng đến công ty của bạn trong 5 năm tới?<br>
+A.TPS<br>
+MIS<br>
+DSS<br>
+ESS<br>
+D<br>
+
+Hệ thống thông tin xử lý giao dịch (TPS) thường chứa _________ dữ liệu, ___________ và vậy nên _____ tự động hóa.<br>
+Nhiều, khác nhau, khó<br>
+Ít, có tính thủ tục, khó<br>
+Nhiều, có tính thủ tục, dễ<br>
+Nhiều, khác nhau, dễ<br>
+D<br>
+
+Hệ thống thông tin xử lý giao dịch (TPS) có chức năng thực hiện và ghi lại các giao dịch hàng ngày nhằm phục vụ các hoạt động sản xuất, kinh doanh của doanh nghiệp?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Hệ thống JIT (Just - In - Time) là một ví dụ về …:<br>
+hệ thống thông tin sản xuất mức tác nghiệp.<br>
+hệ thống thông tin sản xuất mức chiến thuật<br>
+hệ thống thông tin sản xuất mức chiến lược.<br>
+hệ thống thông tin quản lý tiến độ sản xuất.<br>
+B<br>
+
+ Đặc điểm nào sau đây không phải là đặc điểm của quyết định có cấu trúc:<br>
+Có tính thủ tục<br>
+Có tính lặp lại<br>
+Có quy trình rõ ràng<br>
+Cần đến sự đánh giá cũng như kinh nghiệm của cá nhân người ra quyết định<br>
+D<br>
+
+Hầu hết các hệ thống thông tin quản lý sử dụng mô hình toán học hoặc kỹ thuật thống kê?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+ Các hoạt động chính của giai đoạn thiết kế HTTT bao gồm:<br>
+Thiết kế giao diện vào/ ra, thiết kế CSDL và thiết kế tài liệu hướng dẫn sử dụng<br>
+Thiết kế giao diện vào/ ra, thiết kế CSDL, thiết kế biểu mẫu báo cáo, thiết kế xử lí và logic<br>
+Thiết kế CSDL, thiết kế logic xử lí và thiết kế biểu mẫu nhập liệu<br>
+Thiết kế logic xử lí, thiết kế báo cáo đầu ra và thiết kế CSDL<br>
+B<br>
+
+Khẳng định nào sau đây đúng với hệ hỗ trợ ra quyết định?<br>
+Có tính cấu trúc và khả năng tái sử dụng rất cao<br>
+Nguồn dữ liệu đầu vào do hệ thống thông tin hỗ trợ lãnh đạo cung cấp<br>
+Thường sử dụng dữ liệu đầu vào do các hệ thống TPS và MIS cung cấp<br>
+Chỉ sử dụng công cụ xử lý dữ liệu, không dùng đến các công cụ xử lý mô hình<br>
+C<br>
+
+Thử nghiệm hệ thống là trách nhiệm của:<br>
+Của cả người sử dụng và chuyên gia phân tích hệ thống<br>
+Của riêng người sử dụng<br>
+Của riêng chuyên gia phân tích hệ thống.<br>
+Của bên thứ ba<br>
+A<br>
+
+Các chiến lược chuyển đổi HTTT bao gồm:<br>
+Chuyển đổi trực tiếp, chuyển đổi song song, chuyển đổi một lần và chuyển đổi theo pha<br>
+Chuyển đổi trực tiếp, chuyển đổi song song, chuyển đổi theo pha và chuyển đổi thí điểm.<br>
+Chuyển đổi theo pha, chuyển đổi thí điểm, chuyển đổi trực tiếp và chuyển đổi nhiều lần.<br>
+Chuyển đổi song song, chuyển đổi trực tiếp, chuyển đổi thí điểm và chuyển đổi tạm thời.<br>
+B<br>
+
+ Hạn chế của việc mua phần mềm có sẵn so với việc tự phát triển phần mềm là<br>
+Chi phí mua phần mềm cao hơn<br>
+Phần mềm mua sẵn hiếm khi đáp ứng nhu cầu đặc thù của tổ chức<br>
+Cần nhiều thời gian hơn cho việc triển khai vì tính phức tạp của phần mềm<br>
+Không có tài liệu kèm theo<br>
+B<br>
+
+Một hệ thống xử lý giao dịch là một hệ thống máy tính thực hiện và ghi lại các giao dịch hàng ngày nhằm phục vụ các hoạt động sản xuất, kinh doanh của doanh nghiệp?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Phần mềm bảng tính Excel cho phép các nhà quản lý xây dựng một mô hình định giá bán sản phẩm sao cho đạt được điểm hòa vốn. Công cụ được sử dụng trong trường hợp này là<br>
+Data Analysis<br>
+Break Even Point<br>
+Goal Seek<br>
+Data Table<br>
+C<br>
+
+Khi một doanh nghiệp chỉ cài đặt và thử nghiệm một phần của hệ thống mới, sau đó lặp lại việc cài đặt và thử nghiệm từng phần của hệ thống mới cho tới khi hoàn tất toàn bộ hệ thống, được gọi là chuyển đổi<br>
+Thử nghiệm<br>
+Theo pha<br>
+Song song<br>
+Trực tiếp<br>
+B<br>
+
+ Hầu hết các hệ thống MIS sử dụng mô hình toán học hoặc kỹ thuật thống kê?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+ESS được thiết kế để phục vụ cấp quản lý trung gian của tổ chức?<br>
+Đúng<br>
+Sai<br>
+<br>
+<br>
+B<br>
+
+Hoạt động nào sau đây là thử thách nhất với một tổ chức doanh nghiệp<br>
+Mua sắm, phát triển các chương trình mới<br>
+Tạo các CSDL mới hoặc cập nhật lại các CSDL hiện có<br>
+Thay đổi các quy trình thủ tục, thay đổi phương thức làm việc của người sử dụng<br>
+Đặt mua và cài đặt các thiết bị phần cứng mới<br>
+C<br>
+
+Các nhà quản lý cần hệ thống TPS để theo dõi tình trạng hoạt động nội bộ và mối quan hệ của công ty với môi trường bên ngoài?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Phát triển HTTT bao gồm các giai đoạn theo trình tự sau:<br>
+Phân tích, thiết kế, triển khai và bảo trì hệ thống<br>
+Thiết kế, phân tích, triển khai và bảo trì hệ thống<br>
+Thiết kế, triển khai, phân tích và bảo trì hệ thống<br>
+Thiết kế, triển khai, bảo trì hệ thống và phân tích<br>
+A<br>
+
+ Giai đoạn phân tích hệ thống thông tin bao gồm:<br>
+Xác định yêu cầu hệ thống và lập trình thực hiện các yêu cầu đó.<br>
+Mô hình hóa các yêu cầu hệ thống và thiết kế logic xử lý các yêu cầu đó.<br>
+Xác định yêu cầu hệ thống và mô hình hóa các yêu cầu hệ thống<br>
+Không có lựa chọn nào đúng.<br>
+C<br>
+
+Các hệ thống sản xuất ở cấp độ tác nghiệp thường liên quan trực tiếp đến các mục tiêu sản xuất dài hạn của công ty, chẳng hạn như đặt nhà máy mới ở đâu?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+ Trong giai đoạn thử nghiệm phần mềm, người ta thực hiện các loại hình thử nghiệm sau:<br>
+Thử nghiệm đơn vị, thử nghiệm hệ thống và thử nghiệm với dữ liệu giả định.<br>
+Thử nghiệm thuật toán, thử nghiệm hệ thống và thử nghiệm chấp nhận.<br>
+C.Thử nghiệm đơn vị, thử nghiệm sử dụng và thử nghiệm chấp nhận.<br>
+Thử nghiệm đơn vị, thử nghiệm thuật toán và thử nghiệm chấp nhận<br>
+C<br>
+
+Các hoạt động chính của giai đoạn thiết kế HTTT bao gồm:<br>
+Thiết kế giao diện vào/ ra, thiết kế CSDL và thiết kế tài liệu hướng dẫn sử dụng.<br>
+Thiết kế giao diện hội thoại, thiết kế CSDL và thiết kế logic xử lý.<br>
+Thiết kế CSDL, thiết kế logic xử lý và mô hình hoá hệ thống<br>
+Thiết kế logic xử lý, thiết kế báo cáo đầu ra và hoàn chỉnh tài liệu hệ thống<br>
+B<br>
+
+Để giảm thiểu sự phản ứng của người sử dụng khi triển khai HTTT, các tổ chức có thể áp dụng các chiến lược sau<br>
+Lập kế hoạch và triển khai tốt hoạt động đào tạo người sử dụng<br>
+Xây dựng giao diện mang tính thân thiện, dễ dùng đối với người sử dụng<br>
+Phát huy tối đa vai trò của người sử dụng trong quá trình phát triển HTTT<br>
+Cả a, b, c<br>
+D<br>
+
+Quản lý vận hành chịu trách nhiệm chỉ đạo các hoạt động hàng ngày của doanh nghiệp và do đó cần thông tin ở cấp độ giao dịch:<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ệ thống xử lý giao dịch là hệ thống cơ bản phục vụ cấp tác nghiệp của tổ chức?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ Hệ thống xử lý giao dịch thường được sử dụng phổ biến nhất bởi cấp quản lý cao cấp của một tổ chức?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+B<br>
+
+ESS được thiết kế để phân tích dữ liệu thu thập từ các nguồn bên ngoài, nhưng cũng cần các thông tin được tổng hợp từ các hệ thống khác như TPS, MIS và DSS?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+ Hệ thống hỗ trợ quyết định giúp người quản lý đưa ra quyết định không dễ dàng xác định được từ trước?<br>
+Đúng<br>
+Sai<br>
+Không thể nhận định<br>
+Không có đáp án đúng<br>
+A<br>
+
+Nhiệm vụ của chuyên gia phân tích HTTT:<br>
+Làm việc với người sử dụng để sửa chữa<br>
+Làm việc với người sử dụng để viết chương trình<br>
+Làm việc với người sử dụng để tài liệu hướng dẫn sử dụng<br>
+Làm việc với người sử dụng để xác định các yêu cầu hệ thống<br>
+D<br>
+
+Lý do chính của việc nối mạng các thiết bị<br>
+Chia sẻ nguồn lực<br>
+Chia sẻ dữ liệu<br>
+Tăng cường Marketing<br>
+Tất cả<br>
+D<br>
+
+ Cái nào là cái ghi xoá được nhiều lần:<br>
+CD<br>
+CD ROM<br>
+CD-rewrite<br>
+DVD<br>
+C<br>
+
+Chi phí phát triển HTTT bao gồm<br>
+Chi phí bảo trì phần cứng<br>
+Chi phí bảo trì phần mềm<br>
+Chi phí chuyển đổi dữ liệu<br>
+Chi phí nhân công sử dụng hệ thống<br>
+C<br>
+
+Yếu tố nào giúp giải quyết vần đề và đào tạo cho người sử dụng<br>
+Phân tích viên hệ thống<br>
+Quản trị mạng<br>
+Bộ hỗ trợ người sử dụng<br>
+Kỹ sư sử dụng phần mềm<br>
+C<br>
+
+Quản trị quan hệ khách hàng cho các doanh nghiệp nhằm:<br>
+Khách hàng tiềm năng<br>
+Cá nhân hoá sản phẩm theo nhu cầu<br>
+Áp dụng kinh nghiệp chăm sóc khác hàng<br>
+Tất cả<br>
+D<br>
+
+Xử lý các tệp theo kiểu tuần tự trừ:<br>
+Ứng dụng xử lý lương theo lô<br>
+Hệ thống đặt vé máy bay<br>
+Trình duyệt web<br>
+Hệ thống xử lý giao dịch trực tuyến<br>
+A<br>
+
+ Mức độ ứng dụng CNTT theo trình tự từ thấp đến cao là:<br>
+Tự động hoá, tái thiết kế các tiến trình nghiệp vụ, hợp lý hoá các thủ tục, đổi mới toàn diện tổ chức.<br>
+Tự động hoá, đổi mới toàn diện tổ chức, hợp lý hoá các thủ tục, tái thiết kế các tiến trình nghiệp vụ.<br>
+Hợp lý hoá các thủ tục, tự động hoá, tái thiết kế các tiến trình nghiệp vụ, đổi mới toàn diện tổ chức.<br>
+Tự động hoá, hợp lý hoá các thủ tục, tái thiết kế các tiến trình nghiệp vụ, đổi mới toàn diện tổ chức.<br>
+D<br>
+
+ Khẳng định nào sau đây đúng:<br>
+Phát triển HTTT gồm 3 thành phần<br>
+Phát triển HTTT hẹp hơn chương trình<br>
+Phát triển HTTT phát triển thuần tuý kỹ thuật<br>
+Đòi hỏi có sự phối hợp làm việc giữa các chuyên gia HTTT và người sử dụng<br>
+D<br>
+
+Ai là chuyên gia HTTT với kiến thức và nghiệp vụ<br>
+Kỹ sư phần mềm<br>
+Cán bộ quản lý cơ sở dữ liệu<br>
+Cán bộ quản lý dự án<br>
+Cán bộ phân tích hệ thống<br>
+D<br>
+
+Khẳng định nào là nguyên tắc để quản trị thông tin:<br>
+TT chỉ cần vừa đủ không thừa không thiếu<br>
+Dạng đồ họa<br>
+Lưu trữ tách rời<br>
+Càng nhận nhiều thì càng bỏ qua thông tin<br>
+A<br>
+
+Không sử dụng máy chủ (máy chủ quản lý người dùng; quản lý dịch vụ mạng, tài khoảng đăng nhập)<br>
+Email<br>
+Cơ sở dữ liệu<br>
+Xử lý văn bản<br>
+Trang web<br>
+C<br>
+
+
