@@ -1,145 +1,158 @@
 enable: true
-name: 'Kỳ thi thử cho K65 - Outstanding'
+name: 'Kỳ thi thử cho K65 - Quantum Leap'
 news:
-  title: 'BE BRAVE - BE OUTSTANDING'
-  description: 'Kỳ thi thử dành cho K65 Outstanding trên SITDE PK đang được khởi động. Hãy truy cập fb.com/sitdepk ngay để nắm bắt kịp thời những thông tin về kỳ thi thử này.'
+  title: 'BỨT PHÁ KHÔNG GIỚI HẠN CÙNG QUANTUM LEAP'
+  description: 'Kỳ thi thử dành cho K65 Quantum Leap trên SITDE PK đã bắt đầu. Hãy truy cập fb.com/sitdepk ngay để nắm bắt những thông tin về kỳ thi thử này.'
   url: 'https://facebook.com/sitdepk'
-  image: 'OUTSTANDING.jpg'
+  image: 'QUANTUMLEAP.png'
 data:
-  TOCB1107:
+  CNTT1128:
     hasExplanation: false
-    name: 'Toán rời rạc'
+    name: 'Cơ sở lập trình'
     time: 3600
     noQuestion: 40
     testing: false
-    password: '37750'
+    password: '1128'
     sessions:
-      '14/01/2024':
-        - '09:00 - 10:00'
-        - '13:00 - 14:00'
-        - '20:30 - 21:30'
-  CNTT1116:
-    hasExplanation: false
-    name: 'Nhập môn Công nghệ thông tin'
-    time: 3600
-    noQuestion: 50
-    testing: false
-    password: '63412'
-    sessions:
-      '14/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:30'
-        - '15:00 - 16:00'
-  QLKT1101:
-    hasExplanation: false
-    name: 'Quản lý học'
-    time: 3000
-    noQuestion: 40
-    testing: false
-    password: '55983'
-    sessions:
-      '14/01/2024':
-        - '13:00 - 14:00'
-        - '14:30 - 15:30'
+      '01/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
         - '16:00 - 17:00'
-        - '21:00 - 22:00'
-  KHMI1101:
-    hasExplanation: false
-    name: 'Kinh tế vi mô'
-    time: 3600
-    noQuestion: 40
-    testing: false
-    password: '11205'
-    sessions:
-      '15/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
         - '20:00 - 21:00'
-      '16/01/2024':
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
-        - '20:00 - 21:00'
+        - '22:00 - 23:00'
   KHMA1101:
     hasExplanation: false
     name: 'Kinh tế vĩ mô'
     time: 3600
     noQuestion: 40
     testing: false
-    password: '23507'
+    password: '1101'
     sessions:
-      '15/01/2024':
-        - '07:00 - 08:00'
-        - '13:00 - 14:00'
+      '03/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
         - '16:00 - 17:00'
-        - '21:00 - 22:00'
-      '16/01/2024':
-        - '07:00 - 08:00'
-        - '13:00 - 14:00'
-        - '16:00 - 17:00'
-        - '21:00 - 22:00'
-  LUCS1129:
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  KHMI1101:
     hasExplanation: false
-    name: 'Pháp luật đại cương'
-    time: 3000
+    name: 'Kinh tế vi mô'
+    time: 3600
     noQuestion: 40
     testing: false
-    password: '77231'
+    password: '1102'
     sessions:
-      '21/01/2024':
-        - '13:00 - 14:00'
-        - '14:30 - 15:30'
+      '04/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
         - '20:00 - 21:00'
         - '22:00 - 23:00'
   LLNL1105:
     hasExplanation: false
     name: 'Triết học Mác - Lênin'
-    time: 3600
+    time: 3000
     noQuestion: 80
     testing: false
-    password: '64931'
+    password: '1105'
     sessions:
-      '21/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
+      '05/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
         - '16:00 - 17:00'
-        - '21:00 - 22:00'
-  TOCB1101:
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  LLNL1106:
     hasExplanation: false
-    name: 'Đại số'
+    name: 'Kinh tế chính trị Mác - Lênin'
+    time: 3000
+    noQuestion: 80
+    testing: false
+    password: '1106'
+    sessions:
+      '06/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  QLKT1101:
+    hasExplanation: false
+    name: 'Quản lý học'
     time: 3600
     noQuestion: 40
     testing: false
-    password: '52349'
+    password: '1101'
     sessions:
-      '26/01/2024':
-        - '09:00 - 10:00'
-        - '14:30 - 15:30'
+      '08/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
         - '16:00 - 17:00'
-        - '21:00 - 22:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  TOKT1145:
+    hasExplanation: false
+    name: 'Lý thuyết xác suất và thống kê Toán'
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: '1145'
+    sessions:
+      '09/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  LUCS1129:
+    hasExplanation: false
+    name: 'Pháp luật đại cương'
+    time: 3000
+    noQuestion: 80
+    testing: false
+    password: '1129'
+    sessions:
+      '10/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
+  CNTT1182:
+    hasExplanation: false
+    name: 'Phương pháp tính'
+    time: 3600
+    noQuestion: 30
+    testing: false
+    password: '1182'
+    sessions:
+      '12/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
   TIHT1102:
     hasExplanation: false
     name: 'Hệ thống thông tin quản lý'
     time: 3600
     noQuestion: 40
     testing: false
-    password: '78522'
+    password: '1102'
     sessions:
-      '27/01/2024':
-        - '08:00 - 22:00'
-  CNTT1191:
-    hasExplanation: false
-    name: 'Vật lý đại cương'
-    time: 3600
-    noQuestion: 40
-    testing: false
-    password: '02851'
-    sessions:
-      '25/01/2024':
-        - '07:00 - 08:00'
-        - '08:30 - 09:30'
-        - '10:00 - 11:00'
-        - '14:30 - 15:30'
+      '13/07/2024':
+        - '08:00 - 09:00'
+        - '10:30 - 11:30'
+        - '14:00 - 15:00'
+        - '16:00 - 17:00'
+        - '20:00 - 21:00'
+        - '22:00 - 23:00'
