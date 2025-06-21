@@ -1,18 +1,138 @@
 enable: true
-name: 'Kỳ thi thử cho K65 - Quantum Leap'
+name: "Kỳ thi thử cho K66 - Moving Forward"
 news:
-  title: 'BỨT PHÁ KHÔNG GIỚI HẠN QUANTUM LEAP'
-  description: 'Kỳ thi thử dành cho K65 Quantum Leap trên SITDE PK đã bắt đầu. Hãy truy cập fb.com/sitdepk ngay để nắm bắt những thông tin về kỳ thi thử này.'
-  url: 'https://facebook.com/sitdepk'
-  image: 'QUANTUMLEAP.png'
+  title: "LUÔN TIẾN BƯỚC VỀ PHÍA TRƯỚC"
+  description: "Kỳ thi thử dành cho K66 Moving Forward trên SITDE PK sắp diễn ra. Hãy truy cập fb.com/sitdepk ngay để nắm bắt những thông tin về kỳ thi thử này."
+  url: "https://facebook.com/sitdepk"
+  image: "MOVINGFORWARD.png"
 data:
   KHMA1101:
     hasExplanation: false
-    name: 'Kinh tế vĩ mô'
+    name: "Kinh tế vĩ mô"
+    time: 3600
+    noQuestion: 50
+    testing: false
+    password: "25931"
+    sessions:
+      "24/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  CNTT1128:
+    hasExplanation: false
+    name: "Cơ sở lập trình"
     time: 3600
     noQuestion: 40
     testing: false
-    password: '1101'
+    password: "44720"
     sessions:
-      '05/06/2025':
-        - '12:10 - 14:00'
+      "24/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  LLNL1105:
+    hasExplanation: false
+    name: "Triết học Mác - Lênin"
+    time: 3000
+    noQuestion: 80
+    testing: false
+    password: "29377"
+    sessions:
+      "27/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  QLKT1101:
+    hasExplanation: false
+    name: "Quản lý học"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "92848"
+    sessions:
+      "27/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  TIHT1102:
+    hasExplanation: false
+    name: "Hệ thống thông tin quản lý"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "92831"
+    sessions:
+      "30/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  TOKT1145:
+    hasExplanation: false
+    name: "Lý thuyết xác suất và thống kê Toán"
+    time: 3600
+    noQuestion: 40
+    testing: false
+    password: "99273"
+    sessions:
+      "30/06/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  LUCS1129:
+    hasExplanation: false
+    name: "Pháp luật đại cương"
+    time: 3000
+    noQuestion: 80
+    testing: false
+    password: "23488"
+    sessions:
+      "01/07/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  TIKT1130:
+    hasExplanation: false
+    name: "Cơ sở dữ liệu"
+    time: 3600
+    noQuestion: 50
+    testing: false
+    password: "29387"
+    sessions:
+      "01/07/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  KHMI1101:
+    hasExplanation: false
+    name: "Kinh tế vĩ mô"
+    time: 3600
+    noQuestion: 50
+    testing: false
+    password: "23488"
+    sessions:
+      "04/07/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
+  LLNL1106:
+    hasExplanation: false
+    name: "Kinh tế chính trị Mác - Lênin"
+    time: 3000
+    noQuestion: 80
+    testing: false
+    password: "11232"
+    sessions:
+      "04/07/2025":
+        - "08:00 - 09:00"
+        - "11:00 - 12:00"
+        - "14:00 - 15:00"
+        - "20:00 - 22:00"
